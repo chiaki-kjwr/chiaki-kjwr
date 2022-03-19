@@ -1,6 +1,6 @@
-### Hi there 👋
 
 ![Chiaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiaki-kjwr&show_icons=true&theme=ocean_dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiaki-kjwr)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
