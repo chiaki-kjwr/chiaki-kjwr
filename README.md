@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Chiaki's GitHub stats](https://github-readme-stats.vercel.app/api?chiaki-kjwr=anuraghazra&show_icons=true)
+![Chiaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiaki-kjwr=anuraghazra&show_icons=true)
 
 <!--
 **chiaki-kjwr/chiaki-kjwr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
